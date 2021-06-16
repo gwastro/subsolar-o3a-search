@@ -50,5 +50,3 @@ first half of Advanced LIGO and Virgo’s third observing run}",
     year = "2021"
 }
 ```
-
-* PyCBC code version (https://github.com/ahnitz/pycbc/tree/hmr)
