@@ -1,5 +1,4 @@
-# Search for gravitational waves from the coalescence of sub-solar mass binaries in the
-first half of Advanced LIGO and Virgo’s third observing run
+# Search for gravitational waves from the coalescence of sub-solar mass binaries in the first half of Advanced LIGO and Virgo’s third observing run
 **Alexander H. Nitz<sup>1, 2</sup>, Yi-Fan Wang<sup>1, 2</sup>**
 
  <sub>1. [Albert-Einstein-Institut, Max-Planck-Institut for Gravitationsphysik, D-30167 Hannover, Germany](http://www.aei.mpg.de/obs-rel-cos)</sub>
