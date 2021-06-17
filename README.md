@@ -19,7 +19,7 @@ of primordial black hole mergers. The merger rate of 0.5-0.5 (1.0-1.0) M source
 Gpc−3 yr−1. Our limits are ∼ 3 − 4× more constraining than prior analyses.
 
 
-A preprint version of the paper is [available on arxiv](https://arxiv.org/abs/).
+A preprint version of the paper is [available on arxiv](https://arxiv.org/abs/2106.08979).
 This release contains configuration files of the search. 
 
 The rate limits are contained in two text files in the 'upper_limits' folder. These contain the limits
@@ -42,7 +42,7 @@ We encourage use of these data in derivative works. If you use the material prov
     author = "Nitz, Alexander Harvey and Wang, Yi-Fan",
     title = "{ Search for gravitational waves from the coalescence of sub-solar mass binaries in the
 first half of Advanced LIGO and Virgo’s third observing run}",
-    eprint = "XXX.XXXXX",
+    eprint = "2106.08979",
     archivePrefix = "arXiv",
     primaryClass = "astro-ph.HE",
     month = "6",
