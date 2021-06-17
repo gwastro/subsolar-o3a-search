@@ -38,10 +38,9 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unite
 We encourage use of these data in derivative works. If you use the material provided here, please cite the paper using the reference:
 
 ```
-@article{Nitz:2021XXX,
-    author = "Nitz, Alexander Harvey and Wang, Yi-Fan",
-    title = "{ Search for gravitational waves from the coalescence of sub-solar mass binaries in the
-first half of Advanced LIGO and Virgo’s third observing run}",
+@article{Nitz:2021vqh,
+    author = "Nitz, Alexander H. and Wang, Yi-Fan",
+    title = "{Search for gravitational waves from the coalescence of sub-solar mass binaries in the first half of Advanced LIGO and Virgo's third observing run}",
     eprint = "2106.08979",
     archivePrefix = "arXiv",
     primaryClass = "astro-ph.HE",
