@@ -42,11 +42,15 @@ We encourage use of these data in derivative works. If you use the material prov
 ```
 @article{Nitz:2021vqh,
     author = "Nitz, Alexander H. and Wang, Yi-Fan",
-    title = "{Search for gravitational waves from the coalescence of sub-solar mass binaries in the first half of Advanced LIGO and Virgo's third observing run}",
+    title = "{Search for Gravitational Waves from the Coalescence of Subsolar-Mass Binaries in the First Half of Advanced LIGO and Virgo\textquoteright{}s Third Observing Run}",
     eprint = "2106.08979",
     archivePrefix = "arXiv",
     primaryClass = "astro-ph.HE",
-    month = "6",
+    doi = "10.1103/PhysRevLett.127.151101",
+    journal = "Phys. Rev. Lett.",
+    volume = "127",
+    number = "15",
+    pages = "151101",
     year = "2021"
 }
 ```
